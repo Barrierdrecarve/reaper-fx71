@@ -1,4 +1,4 @@
-# 
+# 新 DaVinci Resolve PC版 脚本 是最佳 DaVinci Resolve PC版 脚本，集成 多轨编辑 和 慢动作。安全、可靠、优化，性能最大化。
 
 
 
